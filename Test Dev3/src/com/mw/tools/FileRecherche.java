@@ -1,7 +1,7 @@
 package com.mw.tools;
 //
 // KaneIsDead - 2016
-//
+// Recherche dans des fichiers une ligne précise
 //
 import java.io.File;
 import java.io.FileNotFoundException;
