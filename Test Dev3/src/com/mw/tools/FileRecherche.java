@@ -1,5 +1,8 @@
 package com.mw.tools;
-
+//
+// KaneIsDead - 2016
+//
+//
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
